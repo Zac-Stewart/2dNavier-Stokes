@@ -2,7 +2,7 @@
  
 An interactive Python solver for incompressible flow in two dimensions on a staggered grid. You can draw obstacles and inject dye while it runs, and watch vortices shed in the wakes.
  
-![Flow past a triangle and a square](images/velocity_field.jpg)
+![Flow past a triangle and a square](images/1789049246815.jpg)
  
 *Flow past a triangle and a square drawn in the app, showing vortex shedding in the wakes.*
  
